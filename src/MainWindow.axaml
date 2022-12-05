@@ -5,6 +5,9 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
     x:Class="Launcher.MainWindow"
-    Title="S.T.A.L.K.E.R. - Global War">
+    Title="S.T.A.L.K.E.R. - Global War"
+    ExtendClientAreaToDecorationsHint="True"
+    ExtendClientAreaChromeHints="NoChrome"
+    ExtendClientAreaTitleBarHeightHint="-1">
     Welcome to Avalonia!
 </Window>
