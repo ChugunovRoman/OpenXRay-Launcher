@@ -20,6 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <AvaloniaResource Include="Resources\bg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <TrimmerRootDescriptor Include="src\Roots.xml" />
   </ItemGroup>
 
